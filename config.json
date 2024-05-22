@@ -1,0 +1,37 @@
+{
+    "settings": {
+        "window_perc": 100,
+        "debug_mode": 0,
+        "tps": 240,
+        "font_size": 30,
+        "sfx_volume": 1
+    },
+    "play_configs": {
+        "paddle_speed": 1080,
+        "paddle_width": 29,
+        "paddle_height": 195,
+        "ball_radius": 18,
+        "mid_lines_count": 60,
+        "paddle_spacing": 56,
+        "text_up": 100,
+        "text_spacing": 50,
+        "startscreen_ball_y_vel_random_start": 1,
+        "startscreen_ball_y_vel_random_end": 10,
+        "winning_score": 3
+    },
+    "powerups": {
+        "enlarge": 230,
+        "paddle_speed_increase": 800,
+        "sabotage_spacing_increase": 330,
+        "sabotage_time": 35,
+        "power_shot": 1.6,
+        "weak_shot": 0.7,
+        "slow_motion": 0.8,
+        "shrink_paddle": 0.65,
+        "score_mult": 1,
+        "freeze_ball_time": 10,
+        "scatter_time": 3,
+        "scatter_spacing": 0,
+        "helping_hand_height": 200
+    }
+}
