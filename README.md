@@ -6,4 +6,8 @@ Any contribution and feedback will be gladly appreceated!
 
 Must have Python 3 installed on the machine!
 
-In order to play the game, you have to download the zip file, extract and open run.bat . 
+# Installation process:
+
+**1.** Download the project localy
+**2.** Extract the game
+**3.** Start the game with *run.bat* if on Windows or *run.sh* if on Linux or MacOS
