@@ -5,3 +5,5 @@ Welcome to RedEclipsed's first ever project! We are pretty proud to have this as
 Any contribution and feedback will be gladly appreceated!
 
 Must have Python 3 installed on the machine!
+
+In order to play the game, you have to download the zip file, extract and open run.bat . 
