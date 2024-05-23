@@ -8,7 +8,7 @@ Must have Python 3 installed on the machine!
 
 # Installation process:
 
-**1.** Download the project localy
+**1.** Download the project locally
 
 **2.** Extract the game
 
