@@ -9,5 +9,7 @@ Must have Python 3 installed on the machine!
 # Installation process:
 
 **1.** Download the project localy
+
 **2.** Extract the game
+
 **3.** Start the game with *run.bat* if on Windows or *run.sh* if on Linux or MacOS
