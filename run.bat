@@ -4,4 +4,4 @@ REM Try to install all the requirements for SuperPong
 py -m pip install -r requirements.txt
 
 REM Run SuperPong
-py ./main.py
+python ./main.py
